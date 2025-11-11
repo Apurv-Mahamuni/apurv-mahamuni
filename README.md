@@ -6,7 +6,9 @@
 
 ## 🔧 Skills  
 **Data Science:** Python • R • SQL • Statistical & Probability Analysis • Data Wrangling & Cleaning • Feature Engineering • Data Visualization (Matplotlib, Seaborn, Tableau) • Big Data Tools (Hadoop, Spark) • Cloud Platforms (AWS, GCP, Azure)  
+
 **Machine Learning:** Supervised & Unsupervised Learning • Regression & Classification • Clustering & Dimensionality Reduction • Ensemble Methods (Random Forest, XGBoost) • Evaluation Metrics (ROC AUC, Precision/Recall) • Model Selection & Hyperparameter Tuning • Transfer Learning • Scikit‑Learn  
+
 **Deep Learning:** Neural Networks (FNN, CNN, RNN/LSTM) • Transformer Architectures (attention, self‑attention, embeddings) • Generative Models (GANs, VAEs, LLMs) • Frameworks (PyTorch, TensorFlow/Keras) • Text Preprocessing & Tokenization • Retrieval‑Augmented Generation (RAG) & Vector Search
 
 ---
