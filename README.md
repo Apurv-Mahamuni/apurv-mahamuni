@@ -28,7 +28,7 @@
 ---
 
 ## 📫 Get in Touch  
-- LinkedIn: [www.linkedin.com/in/apurv-mahamuni](www.linkedin.com/in/apurv-mahamuni)  
+- LinkedIn: [www.linkedin.com/in/apurv-mahamuni](https://www.linkedin.com/in/apurv-mahamuni)  
 - Email: apurvmahamuni@gmail.com 
 
 ---
