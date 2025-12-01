@@ -22,7 +22,7 @@
 
 ## 🧪 Highlighted Projects  
 - [**E-commerce Chatbot**](https://github.com/Apurv-Mahamuni/E-Commerce-chatbot) – A interactive E-commerce Chatbot built using Python and Streamlit.  
-- [**GPT from Scratch**]((https://github.com/Apurv-Mahamuni/custom-gpt2-language-model)) – This project trains a custom GPT-2 model on a subset of the Tiny Stories dataset from scratch.
+- [**GPT from Scratch**](https://github.com/Apurv-Mahamuni/custom-gpt2-language-model) – This project trains a custom GPT-2 model on a subset of the Tiny Stories dataset from scratch.
 - [**Credit Risk Modelling**](https://github.com/Apurv-Mahamuni/Credit-Risk-Modelling) – This project implements a Credit Risk Modelling pipeline with a Streamlit UI for interactive predictions.
 
 ---
